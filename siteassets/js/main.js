@@ -179,3 +179,5 @@ let az = { name: 'Adharz' }
 let x = { ...az }
 z.name = 'adil'
 console.log(a.name) //-->Adharz
+
+console.log("holla")
